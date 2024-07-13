@@ -1,16 +1,13 @@
-## Hi there 👋
+## Research Interests
 
-<!--
-**azmigueldario/azmigueldario** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Human infectious diseases, host-pathogen interactions, and microbiome in human health
 
-Here are some ideas to get you started:
+## Expertise
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Epidemiology and public health
+- Bioinformatics and Genomics
+
+## Connect with me 
+
+[![github](https://skillicons.dev/icons?i=github)](https://github.com/azmigueldario)
+[![x](https://skillicons.dev/icons?i=linkedin)]([https://linkedin.com/in/jimmyliu1326](https://www.linkedin.com/in/miguel-prieto-1b851416a/))
