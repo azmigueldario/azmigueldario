@@ -9,6 +9,8 @@
 
 ## Commonly used software:
 [![My Skills](https://skillicons.dev/icons?i=r,python,vscode,linux,git,anaconda&perline=3)](https://skillicons.dev)
+![](https://raw.githubusercontent.com/azmigueldario/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/azmigueldario/github-stats/master/generated/languages.svg#gh-light-mode-only)
 
 ## Connect with me 
 
