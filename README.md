@@ -6,6 +6,7 @@
 
 - Epidemiology and public health
 - Bioinformatics and Genomics
+- Clinical research
 
 ## Commonly used software:
 [![My Skills](https://skillicons.dev/icons?i=r,python,vscode,linux,git,anaconda&perline=3)](https://skillicons.dev)
