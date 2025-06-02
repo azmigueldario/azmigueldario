@@ -9,7 +9,9 @@
 
 ## Commonly used software:
 [![My Skills](https://skillicons.dev/icons?i=r,python,vscode,linux,git,anaconda&perline=3)](https://skillicons.dev)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azmigueldario)](https://github.com/azmigueldario/github-readme-stats)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azmigueldario&size_weight=0.5&count_weight=0.5&hide=html&layout=compact)](https://github.com/azmigueldario/github-readme-stats)
 
 
 ## Connect with me 
