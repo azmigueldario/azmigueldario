@@ -11,10 +11,12 @@
 ## Commonly used software:
 [![My Skills](https://skillicons.dev/icons?i=r,python,vscode,linux,git,anaconda&perline=3)](https://skillicons.dev)
 
+![Pinned](./profile/pin-readme-tools-github-readme-stats.svg)
 
 ![Stats](./profile/stats.svg)
+
 ![Top Languages](./profile/top-langs.svg)
-![Pinned](./profile/pin-readme-tools-github-readme-stats.svg)
+
 
 ## Connect with me 
 
